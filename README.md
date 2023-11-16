@@ -1,1 +1,1 @@
-# Bag_of_Words
+Desenvolva seu código Python no Google Colab a partir do código apresentado no tutorial, organize as etapas com suas respectivas descrições, e realize testes com 25 frases diferentes em inglês e 25 frases diferentes em português
